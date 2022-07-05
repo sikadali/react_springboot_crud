@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-springboot-crud/static/css/main.0d33ec25.css",
+    "main.js": "/react-springboot-crud/static/js/main.455e9b98.js",
+    "static/js/787.0f148dca.chunk.js": "/react-springboot-crud/static/js/787.0f148dca.chunk.js",
+    "static/media/logo.svg": "/react-springboot-crud/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-springboot-crud/index.html",
+    "main.0d33ec25.css.map": "/react-springboot-crud/static/css/main.0d33ec25.css.map",
+    "main.455e9b98.js.map": "/react-springboot-crud/static/js/main.455e9b98.js.map",
+    "787.0f148dca.chunk.js.map": "/react-springboot-crud/static/js/787.0f148dca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d33ec25.css",
+    "static/js/main.455e9b98.js"
+  ]
+}
